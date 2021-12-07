@@ -1,7 +1,6 @@
 package LEARNING;
 
-import learningjava.com.Machine;
-
+ 
 class Machine{
 	private String name;
 	private int age;
